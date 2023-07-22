@@ -36,4 +36,4 @@ You need to send your telegram bot a message first to initialize it to send you 
 
 Use Pm2 to run your bot on deamon https://www.npmjs.com/package/pm2
 
-Enjoy and feel Feel Free to contrubute
+Enjoy and feel Feel Free to contribute
