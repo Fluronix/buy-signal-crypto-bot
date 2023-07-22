@@ -7,7 +7,7 @@ website: https://fluronix.com/
 
 discord: https://discord.gg/sy5XfqK3ZA
 
-Get a vps server to host your bot
+Get a vps server to host your bot: http://click.dreamhost.com/aff_c?offer_id=8&aff_id=12694
 
 **How to set up:**
 
